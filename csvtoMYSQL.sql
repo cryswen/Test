@@ -1,3 +1,4 @@
+/* test add */
 USE test;
 
 CREATE TABLE test (
